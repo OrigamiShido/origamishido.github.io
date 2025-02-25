@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://origamishido.github.io/sitemap.xml
